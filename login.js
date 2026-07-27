@@ -1,3 +1,7 @@
 function validarPassword(){
 
 }
+
+function enviarCodigo(){
+
+}
